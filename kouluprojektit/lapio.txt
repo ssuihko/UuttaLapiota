@@ -1,2 +1,4 @@
 This is only visible at Github at the moment
 I am editing this file
+This is only visible on my laptop at the moment
+this text could be removed after git stash command
