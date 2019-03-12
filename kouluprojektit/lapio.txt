@@ -1,2 +1,2 @@
+This is only visible at Github at the moment
 I am editing this file
-This is only visible in Github at the moment
